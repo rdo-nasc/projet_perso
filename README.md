@@ -13,24 +13,26 @@ Voici donc un sommaire de l'analyse.
 ## Analyse globale de la compétition
 ### Statistiques globales
     - Longueur de partie moyenne, partie la plus longue, partie la plus courte.
-    - Gold diff (10 min, 15 min, 30 min, fin de la partie).
-    - Creep score (10 min , 15 min), CS diff / poste pour les équipes gagnantes.
-    - Expérience à 10 min, Xp diff / poste pour les équipes gagnantes.
-    - Stats (KDA, Dmg share, Gold share, Golds/minutes, Vision Score) / poste.
+    - Gold diff (10 min, 15 min, fin de la partie).
+    - Creep score (10 min , 15 min) / poste, CS diff / poste.
+    - Xp diff / poste .
+    - Stats (KDA, Dmg share, Gold share, Golds/minutes, Wards share) / poste.
 ### Champions
-    - Les plus Picks/Bans.
-    - Les plus et moins de Winrate.
+    - Les champions les plus Picks/Bans.
+    - Les champions avec le plus haut/bas winrate.
 ### Side
     - Winrate.
     - Longueur de la partie.
-    - Gold diff (10 min, 15min, 30min, fin de la partie).
+    - Gold diff (10 min, 15min, fin de la partie).
     - Nombre d'objectifs neutres.
 ### Objectifs
     - Dragons : nombre/game, temps de prise du premier dragon,% de chaque élément, winrate par combinaison d'éléments.
     - Héraut de la faille : nombre par game, temps de prise de l'Héraut, winrate des équipes ayant pris le Héraut.
     - Baron Nashor : nombre par game, temps de prise du premier Nashor, winrate en fonction du nombre de Nashors pris et du temps de prise du premier Nashor.
-    - Dragon Ancestral : nombre par game, temps de prise du premier Ancestral, winrate en fonction du nombre de Dragon Ancestraux pris.
+    - Dragon Ancestral : nombre par game, winrate en fonction du nombre de Dragon Ancestraux pris.
     - Winrate (par nombre de tourelles prises, par nombre de premières tourelles, par temps de premières tourelles.
+
+# ##-------------------------------------------------------------------------------##
 
 ## Analyse par régions (LCK, LPL, LEC)
 ### Analses précédentes par région
@@ -51,5 +53,3 @@ Voici donc un sommaire de l'analyse.
     - Analyse du déroulement de chaque partie.
     - Adaptation ? 
     - Conclusions.
-
-##### N.B : La dernière partie sur l'analyse relève de ma compréhension du jeu. Elle est évidement subjective et sert avant tout de modèle d'analyse d'un set de matchs tel que je l'envisage dans un role de soutien analytique aux équipes. 
