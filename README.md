@@ -1,6 +1,6 @@
 # Analyse des Worlds 2019 de League Of Legends
 
-Pour mon projet de fin de formation j'ai choisi d'analyser le Championnat du Monde de League Of Legends édition 2019. Cette compétition a pris place en Europe en passant par Berlin, Madrid, sa finale se déroulant à Paris dans l'enceinte de L'Accor Hotel Arena (anciennement Palais Omnisport de Paris-Bercy). 
+Pour mon projet de fin de formation j'ai choisi d'analyser le Championnat du Monde de League Of Legends édition 2019. Cette compétition a pris place en Europe en passant par Berlin, Madrid, sa finale se déroulant à Paris dans l'enceinte de L'Accor Hotel Arena. 
 
 J'ai voulu un jeu de données dans un domaine où j'ai des connaissances assez larges pour donner un sens concret aux résultats obtenus. Cela me permet par la même occasion de traiter un sujet atypique, pour ceux qui ne connaissent pas ou peu le monde du jeu video compétitif. 
 
@@ -32,24 +32,7 @@ Voici donc un sommaire de l'analyse.
     - Dragon Ancestral : nombre par game, winrate en fonction du nombre de Dragon Ancestraux pris.
     - Winrate (par nombre de tourelles prises, par nombre de premières tourelles, par temps de premières tourelles.
 
-# ##-------------------------------------------------------------------------------##
+### Conclusion
+De par ces statistiques on pourra définir quels champions il valait mieux bannir, quelle type de composition d'équipe a été la meilleure durant ce tournoi, quel coté de la carte était-il judicieux de choisir et enfin quels sont les objectifs qu'il fallait prioriser lors d'une partie.
 
-## Analyse par régions (LCK, LPL, LEC)
-### Analses précédentes par région
-    - Voir Analyse globale.
-### Analyses supplémentaires
-    - Stats (KDA, Dmg share, Gold share, Golds/minutes, Vision Score) / joueurs.
-    - Winrate / région.
-
-## Analyse par équipes (G2 Esports, Fnatic, Splyce)
-### Analyses précédentes par équipes
-    - Voir Analyse globale.
-### Analyses supplémentaires
-    - Compositions d'équipes : les plus picks, leur winrate, premier pick, dernier pick.
-
-## Analyse de la finale
-    - Picks/Bans
-    - Forces et Faiblesses et de chaque composition.
-    - Analyse du déroulement de chaque partie.
-    - Adaptation ? 
-    - Conclusions.
+**Source dataset: Télechargé sur https://oracleselixir.com/match-data/** 
