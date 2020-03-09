@@ -13,26 +13,23 @@ Voici donc un sommaire de l'analyse.
 ## Analyse globale de la compétition
 ### Statistiques globales
     - Longueur de partie moyenne, partie la plus longue, partie la plus courte.
-    - Gold diff (10 min, 15 min, fin de la partie).
-    - Creep score (10 min , 15 min) / poste, CS diff / poste.
-    - Xp diff / poste .
-    - Stats (KDA, Dmg share, Gold share, Golds/minutes, Wards share) / poste.
+    - Creep score (10 min , 15 min) / poste
+    - Xp / poste .
+    - Stats (KDA, Dmg share, Gold share) / poste.
 ### Champions
-    - Les champions les plus Picks/Bans.
+    - Les champions les plus Picks/Bans, le taux de présence
     - Les champions avec le plus haut/bas winrate.
 ### Side
     - Winrate.
-    - Longueur de la partie.
-    - Gold diff (10 min, 15min, fin de la partie).
     - Nombre d'objectifs neutres.
 ### Objectifs
     - Dragons : nombre/game, temps de prise du premier dragon,% de chaque élément, winrate par combinaison d'éléments.
-    - Héraut de la faille : nombre par game, temps de prise de l'Héraut, winrate des équipes ayant pris le Héraut.
+    - Héraut de la faille : temps de prise du Héraut, winrate des équipes ayant pris le Héraut.
     - Baron Nashor : nombre par game, temps de prise du premier Nashor, winrate en fonction du nombre de Nashors pris et du temps de prise du premier Nashor.
     - Dragon Ancestral : nombre par game, winrate en fonction du nombre de Dragon Ancestraux pris.
-    - Winrate (par nombre de tourelles prises, par nombre de premières tourelles, par temps de premières tourelles.
+    - Tourelles : winrate par nombre de tourelles prises, par prise des trois premières tourelles, par temps de premières tourelles.
 
 ### Conclusion
-De par ces statistiques on pourra définir quels champions il valait mieux bannir, quelle type de composition d'équipe a été la meilleure durant ce tournoi, quel coté de la carte était-il judicieux de choisir et enfin quels sont les objectifs qu'il fallait prioriser lors d'une partie.
+De par cette analyse on pourra définir quels champions il valait mieux bannir, quelle type de composition d'équipe a été la meilleure durant ce tournoi, quel coté de la carte était-il judicieux de choisir et enfin quels sont les objectifs qu'il fallait prioriser lors d'une partie.
 
 **Source dataset: Télechargé sur https://oracleselixir.com/match-data/** 
