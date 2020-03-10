@@ -23,11 +23,10 @@ Voici donc un sommaire de l'analyse.
     - Winrate.
     - Nombre d'objectifs neutres.
 ### Objectifs
-    - Dragons : nombre/game, temps de prise du premier dragon,% de chaque élément, winrate par combinaison d'éléments.
+    - Dragons : nombre/game, temps de prise du premier dragon,% de chaque élément, winrate/nombre de dragon/game
     - Héraut de la faille : temps de prise du Héraut, winrate des équipes ayant pris le Héraut.
-    - Baron Nashor : nombre par game, temps de prise du premier Nashor, winrate en fonction du nombre de Nashors pris et du temps de prise du premier Nashor.
-    - Dragon Ancestral : nombre par game, winrate en fonction du nombre de Dragon Ancestraux pris.
-    - Tourelles : winrate par nombre de tourelles prises, par prise des trois premières tourelles, par temps de premières tourelles.
+    - Baron Nashor : nombre par game, temps de prise du premier Nashor, winrate en fonction du nombre de Nashors pris.
+    - Tourelles : winrate par prise de la première tourelle, par nombre de tourelles prises, par prise des trois premières tourelles.
 
 ### Conclusion
 De par cette analyse on pourra définir quels champions il valait mieux bannir, quelle type de composition d'équipe a été la meilleure durant ce tournoi, quel coté de la carte était-il judicieux de choisir et enfin quels sont les objectifs qu'il fallait prioriser lors d'une partie.
