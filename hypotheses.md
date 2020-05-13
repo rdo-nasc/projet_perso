@@ -2,7 +2,7 @@
 ## Hypothèses
 1. **Longueur des Parties et le Baron Nashor.**
 
-    On constate que la longueur des parties moyenne (gamlength) de 33 minutes et donc varie entre 27 et 38 minutes (écart-type de 6 minutes), au vu du temps de prise de premier baron (fbarontime) median de 25 minutes et de la moyenne du nombre de baron pris par parties de 1,23 pour les équipes gagnantes, 0.19 pour les équipes perdantes (teambaronkills).
+    On constate que la longueur des parties moyenne (gamelength) de 33 minutes et donc varie entre 27 et 38 minutes (écart-type de 6 minutes), au vu du temps de prise de premier baron (fbarontime) median de 25 minutes et de la moyenne du nombre de baron pris par parties de 1,23 pour les équipes gagnantes, 0.19 pour les équipes perdantes (teambaronkills).
     
     On en déduit que les parties se finissent généralement peu après l'apparition du deuxième baron, car le temps de réaparition du baron est de 6 minutes. On trouve ainsi 31 minutes pour l'apparition du deuxième baron ce qui est proche du temps moyen de fin de partie. Cependant un seul baron est pris par les équipes gagnantes et les équipes perdantes n'en prennent pas en moyenne. 
     
@@ -77,7 +77,7 @@
     **Hypothèse** :
     - **_Top_** Un Champion saute aux yeux en regardant la table des winrate top. Ornn a été pris dans 7% des parties et affiche un important 75% de winrate et que 5% de banrate. Il semble que son impact est passé inaperçu lors de la compétition.
     - **_Jungle_** Taliyah et Olaf qui sont a 67% et 60% de winrate respectivement et seulement 3% et 17% de banrate .
-    - **_Middle_** Cassiopeia est notre candidat pour ce poste avec 57% de winrateet un banrate de 4%.
+    - **_Middle_** Cassiopeia est notre candidat pour ce poste avec 57% de winrate et un banrate de 4%.
     - **_Adc_** Nous avons deux cas particuliers avec nos adcs, Varus est un des champions moins "safe" évoqué précédemment dans la partie "Les Adcs", mais son winrate est de 67% et son banrate est de 1%. De même Yasuo est un champion pouvant être joué a deux postes, il a un winrate de 67% en adc et 60% en mid et un ban rate de 15%.
     - **_Support_** Pour soutenir notre adc on pensera à Tahm Kench et son 71% de winrate et seulement 3% de banrate. Il fait partie des champions très protecteurs dont Varus aura besoin pour briller. Mention honorable à Morgana qui arbore un winrate de 62% et un banrate de 15%.
 
